@@ -1,3 +1,4 @@
 Rulebook.pdf
 .vscode/*
 *.pyc
+Pipfile.lock

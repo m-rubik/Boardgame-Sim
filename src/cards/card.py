@@ -1,4 +1,4 @@
-from src.main import test_func
+
 
 class Card():
     def __init__(self, value):
@@ -14,3 +14,6 @@ from random import shuffle
 shuffle(deck)
 for card in deck:
     print(card.value)
+
+import src.main as main
+print(main.myList[0])

@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 names = "*"
+pygame = "*"
+yattag = "*"
 
 [requires]
 python_version = "3.7"
